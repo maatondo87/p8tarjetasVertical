@@ -1,8 +1,8 @@
 # p8tarjetasVertical
-Widgets Card en vertical con colores y imagenes
+##Widgets Card en vertical con colores y imagenes
 ##limk de referencias
-https://flutterexperts.com/vertical-card-pager-in-flutter/
-widgets card en vertical con colores y imagenes
+##https://flutterexperts.com/vertical-card-pager-in-flutter/
+##widgets card en vertical con colores y imagenes
 
 
 ##Card vertical colores
